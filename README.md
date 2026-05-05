@@ -5,10 +5,10 @@ Bilingual Program Manager and Operations Lead — DC Metro. I build programs tha
 **Currently:**  Operations & Compliance Specialist supporting 110+ DC Public Schools sites · Programming Coordinator at ALPFA Washington DC · Digital Ambassador alum, World Bank & IMF Spring Meetings 2026.
 
 **What you'll find here:**
-🎯  DC public-data dashboards (Power BI + Excel methodology)
-📊  Nonprofit and program-management tracker templates
-📑  Policy briefs synthesizing public datasets for DC-area decision makers
-🌐  Bilingual community engagement toolkits (EN/ES)
+> DC public-data dashboards (Power BI + Excel methodology)
+> Nonprofit and program-management tracker templates
+> Policy briefs synthesizing public datasets for DC-area decision makers
+> Bilingual community engagement toolkits (EN/ES)
 
 **Stack:**  Power BI · SQL · Excel (Advanced) · Python (learning) · M.S. Data Analytics, 4.0 GPA · FERPA Certified · PMP (35 PDU)
 
@@ -17,5 +17,4 @@ Bilingual Program Manager and Operations Lead — DC Metro. I build programs tha
 📍  Alexandria, VA  ·  Open to roles in program management, community engagement, and operations across DC government, international organizations, and mission-driven nonprofits.
 
 🔗  [LinkedIn](https://linkedin.com/in/irismorrill)  ·  [Website](https://irismorrill.com)  ·  morrill.iris@gmail.com
-<img width="468" height="495" alt="image" src="https://github.com/user-attachments/assets/04a45bfa-4d98-45ce-b08f-b1133a8fe969" />
 # irismorrill
